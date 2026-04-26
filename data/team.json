@@ -1,0 +1,58 @@
+[
+  {
+    "id": "team-001",
+    "name": "Alya Rahma Putri",
+    "role": "Chief Executive Officer",
+    "bio": "Alya leads ResikIn with a strong focus on building scalable environmental solutions that connect technology, operational efficiency, and social impact.",
+    "experience": "10+ years in sustainability strategy and startup leadership",
+    "specialization": "Sustainability business development",
+    "achievements": [
+      "Led the launch of multiple urban sustainability initiatives",
+      "Built cross-sector partnerships with local governments and private organizations",
+      "Secured early-stage funding for climate-focused innovation programs"
+    ],
+    "contactEmail": "alya@resikin.id"
+  },
+  {
+    "id": "team-002",
+    "name": "Rizky Aditya Pratama",
+    "role": "Chief Technology Officer",
+    "bio": "Rizky oversees product architecture and digital platform development, ensuring ResikIn delivers reliable, data-driven tools for waste reporting and service coordination.",
+    "experience": "8+ years in software engineering and civic technology",
+    "specialization": "Product engineering and platform systems",
+    "achievements": [
+      "Designed scalable platforms used in public service operations",
+      "Implemented analytics dashboards for environmental monitoring",
+      "Led engineering teams across mobile and web product delivery"
+    ],
+    "contactEmail": "rizky@resikin.id"
+  },
+  {
+    "id": "team-003",
+    "name": "Nadia Kusuma Wardani",
+    "role": "Head of Operations",
+    "bio": "Nadia manages field execution, service quality, and partner coordination to ensure daily operations run efficiently across cleaning and waste programs.",
+    "experience": "9+ years in operations management and service delivery",
+    "specialization": "Operational planning and partner coordination",
+    "achievements": [
+      "Optimized multi-city service workflows for environmental programs",
+      "Developed SOPs that improved field response consistency",
+      "Managed regional partner networks for community sanitation projects"
+    ],
+    "contactEmail": "nadia@resikin.id"
+  },
+  {
+    "id": "team-004",
+    "name": "Fajar Mahendra",
+    "role": "Sustainability Consultant",
+    "bio": "Fajar supports clients in designing practical sustainability strategies, with an emphasis on waste reduction, recycling systems, and measurable environmental outcomes.",
+    "experience": "7+ years in ESG advisory and environmental consulting",
+    "specialization": "Waste strategy and sustainability advisory",
+    "achievements": [
+      "Advised organizations on waste reduction and recycling improvement plans",
+      "Developed sustainability reporting frameworks for operational teams",
+      "Contributed to successful green compliance preparation programs"
+    ],
+    "contactEmail": "fajar@resikin.id"
+  }
+]

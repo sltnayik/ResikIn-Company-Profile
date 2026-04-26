@@ -1,0 +1,74 @@
+[
+  {
+    "id": 1,
+    "title": "Eco-Friendly Cleaning",
+    "description": "Professional cleaning service using environmentally responsible products and efficient processes to maintain healthy residential, commercial, and public spaces.",
+    "icon": "Leaf",
+    "category": "Cleaning",
+    "benefits": [
+      "Reduces chemical exposure for occupants",
+      "Supports healthier indoor environments",
+      "Maintains cleanliness with sustainable materials"
+    ]
+  },
+  {
+    "id": 2,
+    "title": "Waste Management",
+    "description": "Integrated waste handling solution covering collection planning, on-site segregation, disposal coordination, and reporting for better operational control.",
+    "icon": "Trash2",
+    "category": "Waste Solutions",
+    "benefits": [
+      "Improves waste sorting accuracy",
+      "Optimizes collection and disposal workflows",
+      "Helps organizations meet environmental standards"
+    ]
+  },
+  {
+    "id": 3,
+    "title": "Smart Recycling",
+    "description": "Data-driven recycling program that helps businesses and communities identify recyclable materials, increase recovery rates, and reduce landfill dependency.",
+    "icon": "Recycle",
+    "category": "Recycling",
+    "benefits": [
+      "Increases recyclable material recovery",
+      "Lowers landfill disposal volume",
+      "Provides measurable recycling performance insights"
+    ]
+  },
+  {
+    "id": 4,
+    "title": "Office Sanitation",
+    "description": "Routine sanitation service designed for offices and shared workspaces, focusing on hygiene-critical touchpoints, rest areas, and employee well-being.",
+    "icon": "Sparkles",
+    "category": "Workplace Hygiene",
+    "benefits": [
+      "Promotes cleaner and safer workspaces",
+      "Reduces hygiene risks in shared areas",
+      "Supports employee comfort and productivity"
+    ]
+  },
+  {
+    "id": 5,
+    "title": "Sustainability Consulting",
+    "description": "Strategic advisory service to help organizations build practical sustainability programs, improve environmental performance, and align with ESG goals.",
+    "icon": "BarChart3",
+    "category": "Consulting",
+    "benefits": [
+      "Creates actionable sustainability roadmaps",
+      "Improves environmental compliance readiness",
+      "Strengthens long-term operational responsibility"
+    ]
+  },
+  {
+    "id": 6,
+    "title": "Green Logistics",
+    "description": "Sustainable transport and distribution support designed to reduce emissions, streamline delivery routes, and improve resource efficiency in operational logistics.",
+    "icon": "Truck",
+    "category": "Logistics",
+    "benefits": [
+      "Reduces fuel use through route efficiency",
+      "Supports lower-carbon operational delivery",
+      "Improves logistics planning and cost visibility"
+    ]
+  }
+]
